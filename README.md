@@ -4,9 +4,12 @@
 This is the COVID analysis and visualization showing the total cases, deaths and vaccinations of the World population from Jan 2020 - April 2021.
 
 #### TOOL USED
-I used SQL to import, clean and analyze my data. I got the data from [OurWorldinData](https://ourworldindata.org/covid-deaths).
+I used Microsoft SQL Server to import, clean and analyze my data. I got the data from [OurWorldinData](https://ourworldindata.org/covid-deaths).
 
-Tableau was used to visualize the insights gotten from the data. 
+I used Tableau for my visualization, because Tableau does not connect to SQL Database, I copied my code results to Excel and saved them as .xlsx
+files, then moved the data to Tableau. 
+
+I created 8 sheets and 3 dashboards, I visualized a story of the infection rates, death count and the how the vaccination progression by country.
 
 
 ### LINK
