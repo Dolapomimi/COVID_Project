@@ -13,5 +13,5 @@ Tableau was used to visualize the insights gotten from the data.
 
 Link to Tableau Visualization [Covid Visual](https://public.tableau.com/app/profile/adedolapo.alonge/viz/CovidAnalysisVisualization_16795997715030/Story1?publish=yes)
 
-Link to SQL Script 
+Link to [SQL Script](https://github.com/Dolapomimi/COVID_Project/blob/main/COVID_DATASET.sql) 
 
