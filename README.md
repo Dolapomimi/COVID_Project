@@ -1,7 +1,7 @@
 # COVID_Project
 
 ### INTRODUCTION
-This is the COVID analysis and visualization showing the total cases, deaths and vaccinations of the World population from Jan 2020 - April 2021.
+This is the COVID analysis and visualization showing the total cases, deaths and vaccinations of the World population from Jan 2020 - March 2021.
 
 #### TOOL USED
 I used Microsoft SQL Server to import, clean and analyze my data. I got the data from [OurWorldinData](https://ourworldindata.org/covid-deaths).
