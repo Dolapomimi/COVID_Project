@@ -14,7 +14,7 @@ I created 8 sheets and 3 dashboards, I visualized a story of the infection rates
 
 ### LINK
 
-Link to Tableau Visualization [Covid Visual]().
+Link to Tableau Visualization [Covid Visual](https://public.tableau.com/shared/WC4CGBQ3Q?:display_count=n&:origin=viz_share_link).
 
 Link to [SQL Script](https://github.com/Dolapomimi/COVID_Project/blob/main/COVID_DATASET.sql) 
 
